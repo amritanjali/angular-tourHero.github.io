@@ -13,7 +13,7 @@ export class HeroesComponent implements OnInit {
     name:"Windstorm"
   };
   
-  heroes : HEROES ;
+  // heroes : HEROES ;
   constructor() { }
 
   ngOnInit() {
